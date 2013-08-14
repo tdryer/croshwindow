@@ -8,8 +8,8 @@
     "128": "icon_128.png"
   },
   "app": {
-    "background": {
-      "scripts": ["main.js"]
+    "launch": {
+      "local_path": "window.html"
     }
   }
 }
